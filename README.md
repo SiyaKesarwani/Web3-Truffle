@@ -1,8 +1,6 @@
 # Web3-Truffle
 
 ```shell
-Verified Contract Links are below:
-
 This repository contains simple contracts which made use of Web3.js library to interact with Ethereum blockchain and perform some transactions.
 
 I made two independent javascript files : balance.js and transaction.js which used web3.js library :
